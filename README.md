@@ -22,7 +22,7 @@
 ---
 
 # 📊 Kambam Ramprakash Reddy's GitHub Stats
-
+<img src="./assets/profile.png" width="160" height="160" style="border-radius: 50%;" />
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=RamprakashReddy42&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
