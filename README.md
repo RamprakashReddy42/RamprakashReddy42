@@ -292,3 +292,161 @@ Prediction
 Deployment
        ↓
 Monitoring
+Technologies
+
+Python Pandas NumPy Scikit-learn Matplotlib
+
+🛒 E-Commerce Customer Analysis
+
+A data analysis project focused on understanding customer behavior and generating business insights.
+
+Technologies
+
+Python SQL Pandas Power BI
+
+Focus
+📊 Data Cleaning
+🔎 Exploratory Data Analysis
+👥 Customer Analysis
+🎯 Customer Segmentation
+💡 Business Insights
+📈 Dashboard Visualization
+🐍 Python
+
+I use Python for programming, data analysis, Machine Learning and problem solving.
+
+Python Skills
+Lists
+Tuples
+Dictionaries
+Sets
+Strings
+Loops
+Functions
+OOP
+Exception Handling
+File Handling
+Pandas
+NumPy
+Matplotlib
+Scikit-learn
+🗄️ SQL
+
+I use SQL for database querying, data manipulation and data analysis.
+
+SQL Skills
+SELECT
+WHERE
+GROUP BY
+HAVING
+ORDER BY
+Aggregate Functions
+JOINs
+Subqueries
+CASE
+Window Functions
+Data Analysis Queries
+🤖 Machine Learning
+
+I'm interested in developing complete Machine Learning solutions.
+
+Machine Learning
+Supervised Learning
+Unsupervised Learning
+Regression
+Classification
+Clustering
+Feature Engineering
+Model Evaluation
+Cross Validation
+Hyperparameter Tuning
+Scikit-learn
+ML Workflow
+Data
+  ↓
+Preprocessing
+  ↓
+EDA
+  ↓
+Feature Engineering
+  ↓
+Train / Test Split
+  ↓
+Model Training
+  ↓
+Evaluation
+  ↓
+Hyperparameter Tuning
+  ↓
+Prediction
+  ↓
+Deployment
+📚 Python & SQL Practice
+🐍 Python Interview Preparation
+Python Basics
+Lists / Tuples / Dictionaries
+Functions
+OOP
+Exception Handling
+Loops
+Strings
+Pandas
+Coding Problems
+Problem Solving
+🗄️ SQL Interview Preparation
+SELECT
+WHERE
+GROUP BY
+HAVING
+ORDER BY
+JOINs
+Aggregate Functions
+Subqueries
+Window Functions
+Data Analysis Queries
+📖 Currently Learning
+<p align="center"> <img src="https://img.shields.io/badge/Advanced%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Advanced%20SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Advanced%20Machine%20Learning-orange?style=for-the-badge&logo=scikitlearn"/> <img src="https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge"/> </p> <p align="center"> <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-purple?style=for-the-badge"/> <img src="https://img.shields.io/badge/ML%20Deployment-green?style=for-the-badge"/> <img src="https://img.shields.io/badge/MLOps-black?style=for-the-badge"/> <img src="https://img.shields.io/badge/Generative%20AI-blue?style=for-the-badge"/> </p>
+🎯 Career Focus
+
+I'm currently preparing for opportunities in:
+
+Role	Focus
+🤖 Machine Learning Intern	Machine Learning
+🧠 AI/ML Intern	Artificial Intelligence & ML
+📊 Data Science Intern	Data Science
+🐍 Python Developer	Python
+💻 Software Engineer	Software Development
+🎓 Graduate / Trainee	Technology
+📈 My Learning Journey
+Python
+   ↓
+SQL
+   ↓
+Data Analysis
+   ↓
+Machine Learning
+   ↓
+Deep Learning
+   ↓
+ML Deployment
+   ↓
+MLOps
+   ↓
+Generative AI
+🎓 Education
+Aditya College of Engineering, Madanapalle
+
+B.Tech – Artificial Intelligence & Data Science
+
+2023 – 2027
+
+🏆 Achievement
+Smart India Hackathon
+
+🥈 2nd Place – College Level
+
+Project:
+Smart Tourist Safety Monitoring & Incident Response System
+
+Contribution:
+Idea Development • Pitching • Prototype • Coding • Team Collaboration
