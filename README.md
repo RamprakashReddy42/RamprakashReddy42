@@ -1,8 +1,6 @@
-<div align="center">
 
-<img src="./assets/profile.png" width="160" height="160" alt="K Ramprakash Reddy"/>
 
-# 👋 Hi, I'm K Ramprakash Reddy
+# 👋 Hi, I'm Kambam Ramprakash Reddy
 
 ### Final Year B.Tech Artificial Intelligence & Data Science Student
 
