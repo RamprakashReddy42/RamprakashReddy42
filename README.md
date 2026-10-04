@@ -1,10 +1,10 @@
-# 👋 Hi, I'm K Ramprakash Reddy
+# 👋 Hi, I'm Kambam Ramprakash Reddy
 
-### Final Year B.Tech Artificial Intelligence & Data Science Student
+### B.Tech Artificial Intelligence & Data Science Student
 
 **Python • SQL • Machine Learning**
 
-I'm a final-year Artificial Intelligence & Data Science student at **Aditya College of Engineering, Madanapalle**. I enjoy building practical projects, working with data, developing Machine Learning solutions, and continuously improving my programming and problem-solving skills.
+ I enjoy building practical projects, working with data, developing Machine Learning solutions, and continuously improving my programming and problem-solving skills.
 
 - 🎓 Final-year B.Tech AI & Data Science
 - 🐍 Focused on Python
@@ -21,7 +21,7 @@ I'm a final-year Artificial Intelligence & Data Science student at **Aditya Coll
 
 ---
 
-# 📊 K Ramprakash Reddy's GitHub Stats
+# 📊 Kambam Ramprakash Reddy's GitHub Stats
 
 <p align="center">
 
