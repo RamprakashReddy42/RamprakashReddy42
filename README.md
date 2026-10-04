@@ -1,28 +1,54 @@
-# 👋 Hi, I'm Kambam Ramprakash Reddy
+<div align="center">
 
-### B.Tech Artificial Intelligence & Data Science Student
+<img src="./assets/profile.png" width="160" height="160" alt="K Ramprakash Reddy"/>
 
-**Python • SQL • Machine Learning**
+# 👋 Hi, I'm K Ramprakash Reddy
 
- I enjoy building practical projects, working with data, developing Machine Learning solutions, and continuously improving my programming and problem-solving skills.
+### Final Year B.Tech Artificial Intelligence & Data Science Student
 
-- 🎓 Final-year B.Tech AI & Data Science
-- 🐍 Focused on Python
-- 🗄️ Working with SQL
-- 🤖 Interested in Machine Learning & AI
-- 📊 Interested in Data Science
-- 🚀 Building practical projects
-- 💼 Preparing for internships and graduate opportunities
+**🐍 Python • 🗄️ SQL • 🤖 Machine Learning**
 
-### How to reach me:
+<p align="center">
 
-- 💼 [LinkedIn](https://linkedin.com/in/ramprakash-reddy-kambam-722403329)
-- 🐙 [GitHub](https://github.com/RamprakashReddy42)
+<a href="https://github.com/RamprakashReddy42">
+<img src="https://img.shields.io/badge/GitHub-RamprakashReddy42-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/ramprakash-reddy-kambam-722403329">
+<img src="https://img.shields.io/badge/LinkedIn-Ramprakash%20Reddy-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+</div>
 
 ---
 
-# 📊 Kambam Ramprakash Reddy's GitHub Stats
-<img src="./assets/profile.png" width="160" height="160" style="border-radius: 50%;" />
+## 👨‍💻 About Me
+
+I'm a final-year **B.Tech Artificial Intelligence & Data Science** student at **Aditya College of Engineering, Madanapalle**.
+
+I enjoy working with **Python, SQL, Machine Learning and Data Science**, building practical projects and continuously improving my programming, problem-solving and technical skills.
+
+- 🎓 Final-year B.Tech – Artificial Intelligence & Data Science
+- 🐍 Python
+- 🗄️ SQL
+- 🤖 Machine Learning
+- 📊 Data Science & Analytics
+- 💻 Software Development
+- 🚀 Practical Project Development
+- 🧠 Artificial Intelligence
+- 💼 Preparing for internships, placements and graduate opportunities
+
+### 📫 How to reach me
+
+- 💼 LinkedIn: [Ramprakash Reddy](https://linkedin.com/in/ramprakash-reddy-kambam-722403329)
+- 🐙 GitHub: [RamprakashReddy42](https://github.com/RamprakashReddy42)
+
+---
+
+# 📊 K Ramprakash Reddy's GitHub Stats
+
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=RamprakashReddy42&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
@@ -33,7 +59,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RamprakashReddy42&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RamprakashReddy42&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -70,15 +96,24 @@
 
 **Core Skills**
 
-🐍 Python  
-🗄️ SQL  
-🤖 Machine Learning  
-🐼 Pandas  
-🔢 NumPy  
-🎯 Scikit-learn  
-📈 Matplotlib  
-📊 Power BI  
-📗 Excel  
+🐍 Python
+
+🗄️ SQL
+
+🤖 Machine Learning
+
+🐼 Pandas
+
+🔢 NumPy
+
+🎯 Scikit-learn
+
+📈 Matplotlib
+
+📊 Power BI
+
+📗 Excel
+
 🔧 Git & GitHub
 
 </td>
@@ -180,23 +215,27 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,html,css,javascript,react,vscode,jupyter" />
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,html,css,javascript,react,vscode,jupyter"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Machine%20Learning-Scikit--learn-orange?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?style=for-the-badge&logo=powerbi"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Excel-Data%20Analysis-green?style=for-the-badge&logo=microsoftexcel"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
 </p>
 
 ---
 
-# 💻 IDE / GUI's I Like
+# 💻 IDE / Tools I Like
 
 <p align="center">
 
@@ -205,6 +244,8 @@
 <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 </p>
 
@@ -216,7 +257,7 @@
 
 An AI-based tourist safety and emergency response system using **AI, geo-fencing, location tracking, SOS alerts and digital identity concepts**.
 
-### Features
+### 🚨 Key Features
 
 - 🚨 SOS emergency button
 - 📍 Location sharing
@@ -226,11 +267,11 @@ An AI-based tourist safety and emergency response system using **AI, geo-fencing
 - 🏥 Emergency response notifications
 - 🔐 Digital identity concept
 
-### Technologies
+### 🛠️ Technologies
 
 `React` `JavaScript` `Python` `Machine Learning` `Google Maps`
 
-### My Contribution
+### 👨‍💻 My Contribution
 
 - Idea development
 - Project pitching
@@ -239,7 +280,7 @@ An AI-based tourist safety and emergency response system using **AI, geo-fencing
 - Feature implementation
 - Team collaboration
 
-🏆 **Achievement: 2nd place at the college-level Smart India Hackathon selection**
+🏆 **2nd Place – College-Level Smart India Hackathon Selection**
 
 ---
 
@@ -247,7 +288,7 @@ An AI-based tourist safety and emergency response system using **AI, geo-fencing
 
 A platform designed for **crime reporting, emergency assistance and safety tracking**.
 
-### Features
+### 🚨 Key Features
 
 - 🔐 User authentication
 - 📝 Crime reporting
@@ -256,7 +297,7 @@ A platform designed for **crime reporting, emergency assistance and safety track
 - 🗺️ Map-based tracking
 - 🆘 Emergency assistance
 
-### Technologies
+### 🛠️ Technologies
 
 `React` `Node.js` `Express` `REST APIs` `Google Maps`
 
@@ -264,9 +305,9 @@ A platform designed for **crime reporting, emergency assistance and safety track
 
 ## 🤖 End-to-End Machine Learning Project
 
-A complete Machine Learning project following an industry-style workflow.
+A complete Machine Learning project following an industry-style workflow from data preparation to prediction and deployment.
 
-### ML Workflow
+### 🔄 ML Workflow
 
 ```text
 Data Collection
@@ -292,161 +333,3 @@ Prediction
 Deployment
        ↓
 Monitoring
-Technologies
-
-Python Pandas NumPy Scikit-learn Matplotlib
-
-🛒 E-Commerce Customer Analysis
-
-A data analysis project focused on understanding customer behavior and generating business insights.
-
-Technologies
-
-Python SQL Pandas Power BI
-
-Focus
-📊 Data Cleaning
-🔎 Exploratory Data Analysis
-👥 Customer Analysis
-🎯 Customer Segmentation
-💡 Business Insights
-📈 Dashboard Visualization
-🐍 Python
-
-I use Python for programming, data analysis, Machine Learning and problem solving.
-
-Python Skills
-Lists
-Tuples
-Dictionaries
-Sets
-Strings
-Loops
-Functions
-OOP
-Exception Handling
-File Handling
-Pandas
-NumPy
-Matplotlib
-Scikit-learn
-🗄️ SQL
-
-I use SQL for database querying, data manipulation and data analysis.
-
-SQL Skills
-SELECT
-WHERE
-GROUP BY
-HAVING
-ORDER BY
-Aggregate Functions
-JOINs
-Subqueries
-CASE
-Window Functions
-Data Analysis Queries
-🤖 Machine Learning
-
-I'm interested in developing complete Machine Learning solutions.
-
-Machine Learning
-Supervised Learning
-Unsupervised Learning
-Regression
-Classification
-Clustering
-Feature Engineering
-Model Evaluation
-Cross Validation
-Hyperparameter Tuning
-Scikit-learn
-ML Workflow
-Data
-  ↓
-Preprocessing
-  ↓
-EDA
-  ↓
-Feature Engineering
-  ↓
-Train / Test Split
-  ↓
-Model Training
-  ↓
-Evaluation
-  ↓
-Hyperparameter Tuning
-  ↓
-Prediction
-  ↓
-Deployment
-📚 Python & SQL Practice
-🐍 Python Interview Preparation
-Python Basics
-Lists / Tuples / Dictionaries
-Functions
-OOP
-Exception Handling
-Loops
-Strings
-Pandas
-Coding Problems
-Problem Solving
-🗄️ SQL Interview Preparation
-SELECT
-WHERE
-GROUP BY
-HAVING
-ORDER BY
-JOINs
-Aggregate Functions
-Subqueries
-Window Functions
-Data Analysis Queries
-📖 Currently Learning
-<p align="center"> <img src="https://img.shields.io/badge/Advanced%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Advanced%20SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Advanced%20Machine%20Learning-orange?style=for-the-badge&logo=scikitlearn"/> <img src="https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge"/> </p> <p align="center"> <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-purple?style=for-the-badge"/> <img src="https://img.shields.io/badge/ML%20Deployment-green?style=for-the-badge"/> <img src="https://img.shields.io/badge/MLOps-black?style=for-the-badge"/> <img src="https://img.shields.io/badge/Generative%20AI-blue?style=for-the-badge"/> </p>
-🎯 Career Focus
-
-I'm currently preparing for opportunities in:
-
-Role	Focus
-🤖 Machine Learning Intern	Machine Learning
-🧠 AI/ML Intern	Artificial Intelligence & ML
-📊 Data Science Intern	Data Science
-🐍 Python Developer	Python
-💻 Software Engineer	Software Development
-🎓 Graduate / Trainee	Technology
-📈 My Learning Journey
-Python
-   ↓
-SQL
-   ↓
-Data Analysis
-   ↓
-Machine Learning
-   ↓
-Deep Learning
-   ↓
-ML Deployment
-   ↓
-MLOps
-   ↓
-Generative AI
-🎓 Education
-Aditya College of Engineering, Madanapalle
-
-B.Tech – Artificial Intelligence & Data Science
-
-2023 – 2027
-
-🏆 Achievement
-Smart India Hackathon
-
-🥈 2nd Place – College Level
-
-Project:
-Smart Tourist Safety Monitoring & Incident Response System
-
-Contribution:
-Idea Development • Pitching • Prototype • Coding • Team Collaboration
